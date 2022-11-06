@@ -1,7 +1,8 @@
 **Aula Arrays Javascript**
-* Autor: Olival Paulino
+* Autor: Olival Paulino :computer:
 * [Github](https://github.com/olivalpaulino/aula-arrays-javascript)
 * [Assista a Aula no Youtube](https://www.youtube.com/watch?v=hatdudCQwC0)
+* [LinkedIn](https://www.linkedin.com/in/olivalpaulino/)
 
 **Descrição:**
 Aula de javascript que explica os conceitos e práticas da manipulação de arrays. Nesta aula, você aprendará a utilizar as funções:
